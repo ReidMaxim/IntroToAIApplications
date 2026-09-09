@@ -1,0 +1,69 @@
+Proposed Guiding Question Order
+Part I — How LLMs Work
+
+1. What is a token, and why do LLMs represent text in token form?
+
+2. What is the difference between training and inference in an LLM?
+
+3. What are the limits of in-context learning?
+
+4. What is temperature, and how does it affect the variability of generated text?
+
+5. What is retrieval-augmented generation (RAG), and how does it change answers?
+
+6. What is alignment, and how is it related to safer text generation?
+
+
+
+Part II — Understanding LLM Reliability
+
+7. What are hallucinations in LLM text generation?
+
+8. Why do hallucinations happen even when the prompt seems specific?
+
+9. How might hallucinated citations mislead research and create downstream harm?
+
+10. What ethical harms can occur when LLMs mass-produce "evidence" summaries that look credible but are wrong?
+
+
+
+Part III — LLMs and Cybersecurity
+
+11. How can prompt injection be ethically relevant to safety and integrity in real deployments?
+
+12. What ethical risks arise when LLMs contribute to phishing or fraud at scale?
+
+13. How can LLMs enable coordinated inauthentic behavior at scale through generated text?
+
+
+
+Part IV — Bias, Persuasion, and Automated Decisions
+
+14. How can dataset selection and labeling practices make surveillance tools systematically unfair?
+
+15. How can biased language and stereotyping in outputs create real-world harm?
+
+16. What ethical issues arise when businesses use LLMs for persuasion and targeted messaging?
+
+17. What ethical risks arise when LLM outputs are used for hiring or employee evaluation?
+
+18. What ethical issues arise when "extremism" or "dissidence" labels reflect political priorities rather than neutral criteria?
+
+
+
+
+Part V — AI and Mass Surveillance
+
+19. What is mass surveillance in the AI context?
+
+20. How can text generation models support mass surveillance workflows?
+
+21. What ethical concerns arise in workplace surveillance via LLM analysis of employee messages?
+
+22. What ethical questions should guide proportionality when surveillance is used at population scale?
+
+
+
+Part VI — Responsible Human Use of AI
+
+23. What principles should guide the use of LLMs as learning aids rather than replacements for human authorship and work?
